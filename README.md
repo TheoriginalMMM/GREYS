@@ -56,10 +56,10 @@ Pour démarrer l'application, vous pouvez lancer le fichier **interface_ImgClass
 
 Voila ce qui devrait s'afficher à l'écran : 
 
-![Screenshot application Greys](https://drive.google.com/open?id=1qFojj_rPtSn1j36NG-kH8pGNeZP8EA5q)
+![Screenshot application Greys](https://github.com/TheoriginalMMM/GREYS/blob/main/Greys.png?raw=true)
 
 ## Auteurs
 
 - **Doriane AJMI** - [GitHub](https://forge.univ-lyon1.fr/p1616047) 
-- **Mohamed El Mehdi MAKHLOUF ** - [GitHub](https://forge.univ-lyon1.fr/p1808420)
+- **Mohamed El Mehdi MAKHLOUF** - [GitHub](https://github.com/TheoriginalMMM)
 - **Yoann BOUGE** - [GitHub](https://forge.univ-lyon1.fr/p1711842)
